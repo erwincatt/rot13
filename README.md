@@ -19,6 +19,7 @@ ROT13 is a simple letter substitution cipher that replaces a letter with the 13t
 Know more about [ROT13](https://en.wikipedia.org/wiki/ROT13) ~Wikipedia
 
 ### How tf is this useful to me?
+***
 
 You wanna write a journal like Elliot Alderson?
 Want to note your whole fuckin life down?
