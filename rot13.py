@@ -12,7 +12,7 @@ while True:
         print()
         print('1. Na - Sodium')
         print('2. Bore - "Bo" and "Re"')
-        print('3. PC/CP - Personal Computer and you know it')
+        print('3. PC/CP - Personal Computer and Child po**')
         print('4. Qd - Quad/Quadrilateral')
         print('5. SF - SourceForge/Science Fiction')
         print('6. GT - GTA/GT Racing')
