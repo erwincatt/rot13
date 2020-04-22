@@ -31,7 +31,7 @@ Wanna cheat in school? Afraid to get caught?
 
 Just don't tell anyone it is rot13 or never write decipher text below ciphered text or anyone can easily decipher your "SECRET ALIEN LANGUAGE"
 
-Well this is not a super safe way to cipher but it is easy and your can easily do it manually (enter `h` to learn).
+Well this is not a super safe way to cipher but it is easy and your can easily do it manually (enter "`h`" to learn).
 
 IT IS BETTER THAN DOING NOTHING
 Your diary can reveal a lot about you. Make it harder for anyone to read it.
