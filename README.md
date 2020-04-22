@@ -14,7 +14,6 @@ Just type text to cipher or type ciphered text to decipher and ofc press enter
 ### But WTF is ROT13?
 ***
 
-![ROT13](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ROT13_table_with_example.svg/800px-ROT13_table_with_example.svg.png)
 ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it, in the alphabet. ROT13 is a special case of the Caesar cipher which was developed in ancient Rome. Because there are 26 letters in the basic Latin alphabet, ROT13 is its own inverse; that is, to undo ROT13, the same algorithm is applied, so the same action can be used for encoding and decoding. The algorithm provides virtually no cryptographic security, and is often cited as a canonical example of weak encryption. ROT13 is used in online forums as a means of hiding spoilers, punchlines, puzzle solutions, and offensive materials from the casual glance. ROT13 has inspired a variety of letter and word games on-line, and is frequently mentioned in newsgroup conversations.
 
 Know more about [ROT13](https://en.wikipedia.org/wiki/ROT13) (Wikipedia)
